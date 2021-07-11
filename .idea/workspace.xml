@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18b93f56-559e-4381-b8d8-c3ba5dd65fae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/67847b424aa60b81c7b6695dc9e396afa3aff180e9f1dc4fc4125b3f409865c1.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/67847b424aa60b81c7b6695dc9e396afa3aff180e9f1dc4fc4125b3f409865c1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/67847b424aa60b81c7b6695dc9e396afa3aff180e9f1dc4fc4125b3f409865c1.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/67847b424aa60b81c7b6695dc9e396afa3aff180e9f1dc4fc4125b3f409865c1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/67847b424aa60b81c7b6695dc9e396afa3aff180e9f1dc4fc4125b3f409865c1_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/67847b424aa60b81c7b6695dc9e396afa3aff180e9f1dc4fc4125b3f409865c1_screenshots.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-67847b424aa60b81c7b6695dc9e396afa3aff180e9f1dc4fc4125b3f409865c1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-67847b424aa60b81c7b6695dc9e396afa3aff180e9f1dc4fc4125b3f409865c1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ai/autonomous/page/SearchFilterAndSortItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ai/autonomous/page/SearchFilterAndSortItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ai/autonomous/page/ViewTheCart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ai/autonomous/page/ViewTheCart.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,25 +182,25 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="610" y="265" width="697" height="568" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1625936259006" />
-    <state width="1398" height="271" key="GridCell.Tab.0.bottom" timestamp="1626006278291">
+    <state width="1398" height="104" key="GridCell.Tab.0.bottom" timestamp="1626021779065">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="271" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1626006278291" />
+    <state width="1398" height="104" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1626021779065" />
     <state width="1398" height="271" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1625995686705" />
-    <state width="1398" height="271" key="GridCell.Tab.0.center" timestamp="1626006278290">
+    <state width="1398" height="104" key="GridCell.Tab.0.center" timestamp="1626021779064">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="271" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1626006278290" />
+    <state width="1398" height="104" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1626021779064" />
     <state width="1398" height="271" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1625995686704" />
-    <state width="1398" height="271" key="GridCell.Tab.0.left" timestamp="1626006278289">
+    <state width="1398" height="104" key="GridCell.Tab.0.left" timestamp="1626021779063">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="271" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1626006278289" />
+    <state width="1398" height="104" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1626021779063" />
     <state width="1398" height="271" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1625995686704" />
-    <state width="1398" height="271" key="GridCell.Tab.0.right" timestamp="1626006278290">
+    <state width="1398" height="104" key="GridCell.Tab.0.right" timestamp="1626021779064">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="271" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1626006278290" />
+    <state width="1398" height="104" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1626021779064" />
     <state width="1398" height="271" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1625995686705" />
     <state width="1398" height="200" key="GridCell.Tab.1.bottom" timestamp="1625941025050">
       <screen x="0" y="0" width="1440" height="900" />
@@ -236,7 +244,7 @@
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
       <path>
-        <item name="fitin-automation-qa" type="b2602c69:ProjectViewProjectNode" />
+        <item name="autonomous-automation-qa" type="b2602c69:ProjectViewProjectNode" />
         <item name="qa-automation" type="462c0819:PsiDirectoryNode" />
       </path>
     </expand>

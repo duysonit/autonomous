@@ -292,7 +292,7 @@
             <artifactId>eyes-selenium-java3</artifactId>
             <version>RELEASE</version>
         </dependency>
-        
+
         <dependency>
             <groupId>com.opencsv</groupId>
             <artifactId>opencsv</artifactId>
