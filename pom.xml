@@ -292,19 +292,7 @@
             <artifactId>eyes-selenium-java3</artifactId>
             <version>RELEASE</version>
         </dependency>
-
-        <!-- https://mvnrepository.com/artifact/com.oracle/ojdbc7 -->
-<!--        <dependency>-->
-<!--            <groupId>com.oracle</groupId>-->
-<!--            <artifactId>ojdbc7</artifactId>-->
-<!--            <version>12.1.0.2</version>-->
-<!--            <scope>system</scope>-->
-<!--            <systemPath>/Users/sonvd/Documents/GIC/ghn-automation-qa/lib/ojdbc7-12.1.0.2.jar</systemPath>-->
-<!--            <optional>true</optional>-->
-<!--        </dependency>-->
-
-
-
+        
         <dependency>
             <groupId>com.opencsv</groupId>
             <artifactId>opencsv</artifactId>

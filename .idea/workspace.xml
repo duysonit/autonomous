@@ -4,6 +4,7 @@
     <list default="true" id="18b93f56-559e-4381-b8d8-c3ba5dd65fae" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +45,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -213,10 +214,10 @@
     </state>
     <state width="1398" height="200" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1625941025050" />
     <state width="1398" height="200" key="GridCell.Tab.1.right/0.23.1440.826@0.23.1440.826" timestamp="1625929678586" />
-    <state x="221" y="63" key="SettingsEditor" timestamp="1626015451434">
+    <state x="221" y="23" width="1024" height="826" key="SettingsEditor" timestamp="1626021511228">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="221" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1626015451434" />
+    <state x="221" y="23" width="1024" height="826" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1626021511228" />
     <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1625929892629">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
