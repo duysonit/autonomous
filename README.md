@@ -53,8 +53,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 Nowaday, we have many tools for the automation testing like Selenium, Katalon, Cypress,etc...In this project, I recommend we use the Selenium using Serenity BDD framework which is an open source library, based on the following reasons:
 * Serenity BDD helps you write cleaner and more maintainable automated acceptance and regression tests faster. 
 * Serenity also uses the test results to produce illustrated, narrative reports that document and describe what your application does and how it works. Serenity tells you not only what tests have been executed, but more importantly, what requirements have been tested.
@@ -62,9 +60,15 @@ Nowaday, we have many tools for the automation testing like Selenium, Katalon, C
 * Serenity BDD provides strong support for different types of automated acceptance testing, including:
     * Rich built-in support for web testing with Selenium.
     * REST API testing with RestAssured.
-    * Highly readable, maintainable and scalable automated testing with the Screenplay pattern. 
-* Serenity reports aim to be more than simple test reports - they are designed to provide living documentation of your product. The reports give an overview of the test results ( attach img)
-* But they also let you document your requirements hierarchy, and the state of the acceptance criteria associated with your requirements: ( attach img)
+    * Highly readable, maintainable and scalable automated testing with the Screenplay pattern.
+* Serenity reports aim to be more than simple test reports - they are designed to provide living documentation of your product. The reports give an overview of the test results
+
+![image](https://user-images.githubusercontent.com/32425769/125211303-9fadb080-e2cf-11eb-9b57-d377c2361ae7.png)
+
+
+* But they also let you document your requirements hierarchy, and the state of the acceptance criteria associated with your requirements
+
+![image](https://user-images.githubusercontent.com/32425769/125211319-c370f680-e2cf-11eb-8b9b-ebc461228721.png)
 
 
 
@@ -80,15 +84,26 @@ These components run Serenity BDD Framework. They are all required.
 ### Project Structure
 
 We use Page Object Model (POM) for design pattern in this project. The advantage of the model is that it reduces code duplication and improves test maintenance.
-(img)
+
+![POM](https://user-images.githubusercontent.com/32425769/125211141-89532500-e2ce-11eb-9937-6ae38d238c7f.png)
+
 Page Object Class
-The first page (class or class file) represents the web page we want to model or carry actions on.
+
+- The first page (class or class file) represents the web page we want to model or carry actions on.
+
+
 Page Method Class
-Secondly, we need another page object (class file) to hold the methods to be used in interacting with objects on the web page we are modeling.
+
+- Secondly, we need another page object (class file) to hold the methods to be used in interacting with objects on the web page we are modeling.
+
+
 Page Test Class
-Thirdly, with Page object model page methods are held separate from test methods, so this class file will hold our test code. We run the JUnit test using the Serenity test runner.
-The @Steps annotation marks a Serenity step library.
-The @WithTag annotation : We use this annotation to execute all test with the tag in terminal using $ mvn clean verify -Dtags=“type={variable1}:name={variable2}”
+
+- Thirdly, with Page object model page methods are held separate from test methods, so this class file will hold our test code. We run the JUnit test using the Serenity test runner.
+
+- The @Steps annotation marks a Serenity step library.
+
+- The @WithTag annotation : We use this annotation to execute all test with the tag in terminal using $ mvn clean verify -Dtags=“type={variable1}:name={variable2}”
 
 
 
