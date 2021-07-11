@@ -1,0 +1,67 @@
+---
+kind: ConfigMap
+apiVersion: v1
+metadata:
+  name: nginx-autonomous-qareport
+data:
+  service.conf: |-
+    server {
+      listen 80 default_server;
+      access_log /dev/stdout main;
+      error_log /dev/stderr warn;
+
+      root /usr/share/nginx/html;
+
+      location / {
+        try_files $uri $uri/ /index.html;
+      }
+
+    }
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: autonomous-qareport
+  labels:
+    app: autonomous-qareport
+spec:
+  type: NodePort
+  ports:
+  - name: http
+    port: 80
+    targetPort: 80
+  selector:
+    app: autonomous-qareport
+---
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: autonomous-qareport
+  labels:
+    app: autonomous-qareport
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: autonomous-qareport
+    spec:
+      volumes:
+        - name: nginx-config
+          configMap:
+            name: nginx-autonomous-qareport
+            items:
+            - key: service.conf
+              path: service.conf
+      containers:
+      - name: autonomous-qareport
+        image: asia.gcr.io/autonomous-ai/autonomous_qareport:staging
+        imagePullPolicy: Always
+        ports:
+        - containerPort: 80
+        volumeMounts:
+        - name: nginx-config
+          mountPath: "/etc/nginx/conf.d"
+
+

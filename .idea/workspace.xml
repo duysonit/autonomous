@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18b93f56-559e-4381-b8d8-c3ba5dd65fae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jReT6stePfBKFtIxrDynYI6kBy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AmazonTesting">
+    <configuration name="BotController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vn.fitin.features.telegram.BotController" />
+      <module name="autonomous-automation-qa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vn.fitin.features.telegram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddToCartTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="autonomous-automation-qa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vn.fitin.features.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="vn.fitin.features.ui" />
+      <option name="MAIN_CLASS_NAME" value="vn.fitin.features.ui.AddToCartTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AmazonTesting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="autonomous-automation-qa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ai.autonomous.features.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ai.autonomous.features.ui" />
+      <option name="MAIN_CLASS_NAME" value="ai.autonomous.features.ui.AmazonTesting" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckEmailBaoGiaVaThietKeFitin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="autonomous-automation-qa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vn.fitin.features.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="vn.fitin.features.ui" />
+      <option name="MAIN_CLASS_NAME" value="vn.fitin.features.ui.CheckEmailBaoGiaVaThietKeFitin" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StylefitUserFlow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="autonomous-automation-qa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vn.fitin.features.api.fitin3d.tenantuser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="vn.fitin.features.api.fitin3d.tenantuser" />
+      <option name="MAIN_CLASS_NAME" value="vn.fitin.features.api.fitin3d.tenantuser.StylefitUserFlow" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AmazonTesting" />
+        <item itemvalue="JUnit.CheckEmailBaoGiaVaThietKeFitin" />
+        <item itemvalue="JUnit.StylefitUserFlow" />
+        <item itemvalue="Application.BotController" />
+        <item itemvalue="JUnit.AddToCartTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18b93f56-559e-4381-b8d8-c3ba5dd65fae" name="Default Changelist" comment="" />
+      <created>1603771335180</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603771335180</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="604" y="343" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1626014261463">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="604" y="343" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.826@0.23.1440.826" timestamp="1626014261463" />
+    <state x="477" y="316" width="485" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1618246460485">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="477" y="316" width="485" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1618246460485" />
+    <state x="461" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1625853682062">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="461" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1625853682062" />
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1625856257850">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1625856257850" />
+    <state x="610" y="265" width="697" height="568" key="#xdebugger.evaluate" timestamp="1625936259006">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="610" y="265" width="697" height="568" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1625936259006" />
+    <state width="1398" height="271" key="GridCell.Tab.0.bottom" timestamp="1626006278291">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="271" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1626006278291" />
+    <state width="1398" height="271" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1625995686705" />
+    <state width="1398" height="271" key="GridCell.Tab.0.center" timestamp="1626006278290">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="271" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1626006278290" />
+    <state width="1398" height="271" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1625995686704" />
+    <state width="1398" height="271" key="GridCell.Tab.0.left" timestamp="1626006278289">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="271" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1626006278289" />
+    <state width="1398" height="271" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1625995686704" />
+    <state width="1398" height="271" key="GridCell.Tab.0.right" timestamp="1626006278290">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="271" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1626006278290" />
+    <state width="1398" height="271" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1625995686705" />
+    <state width="1398" height="200" key="GridCell.Tab.1.bottom" timestamp="1625941025050">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="200" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1625941025050" />
+    <state width="1398" height="200" key="GridCell.Tab.1.bottom/0.23.1440.826@0.23.1440.826" timestamp="1625929678586" />
+    <state width="1398" height="200" key="GridCell.Tab.1.center" timestamp="1625941025049">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="200" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1625941025049" />
+    <state width="1398" height="200" key="GridCell.Tab.1.center/0.23.1440.826@0.23.1440.826" timestamp="1625929678585" />
+    <state width="1398" height="200" key="GridCell.Tab.1.left" timestamp="1625941025049">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="200" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1625941025049" />
+    <state width="1398" height="200" key="GridCell.Tab.1.left/0.23.1440.826@0.23.1440.826" timestamp="1625929678584" />
+    <state width="1398" height="200" key="GridCell.Tab.1.right" timestamp="1625941025050">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="200" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1625941025050" />
+    <state width="1398" height="200" key="GridCell.Tab.1.right/0.23.1440.826@0.23.1440.826" timestamp="1625929678586" />
+    <state x="221" y="63" key="SettingsEditor" timestamp="1626015451434">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1626015451434" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1625929892629">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1621408500998" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1625929892629" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.23.1440.826@0.23.1440.826" timestamp="1625766474252" />
+    <state x="378" y="207" width="837" height="550" key="find.popup" timestamp="1625930120423">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="378" y="207" width="837" height="550" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1625930120423" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1625936048508">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1625936048508" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="fitin-automation-qa" type="b2602c69:ProjectViewProjectNode" />
+        <item name="qa-automation" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>

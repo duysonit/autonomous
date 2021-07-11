@@ -1,0 +1,184 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Screenshots</title>
+
+    <link rel="shortcut icon" href="favicon.ico">
+
+<link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+<!--[if IE 7]>
+<link rel="stylesheet" href="font-awesome/css/font-awesome-ie7.min.css">
+<![endif]--><!-- JQuery -->
+<script type="text/javascript" src="scripts/jquery-1.11.1.min.js"></script><!-- Bootstrap -->
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<script src="bootstrap/js/bootstrap.min.js"></script><link rel="stylesheet" href="css/core.css"/>
+<link rel="stylesheet" href="css/link.css"/>
+<link type="text/css" media="screen" href="css/screen.css" rel="Stylesheet"/><!-- Nivo Slider -->
+<link rel="stylesheet" href="nivo-slider/3.2/nivo-slider.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="nivo-slider/3.2/themes/default/default.css" type="text/css" media="screen" />
+<script src="nivo-slider/3.2/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+    <script type="text/javascript">
+
+        function getUrlVars() {
+            var vars = {};
+            var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function (m, key, value) {
+                vars[key] = value;
+            });
+            return vars;
+        }
+
+        var screenshotIndex = getUrlVars()["screenshot"];
+
+        $(window).load(function () {
+            $('#slider').nivoSlider({
+                startSlide: screenshotIndex,
+                effect: 'fade',
+                animSpeed: 200,
+                manualAdvance: true
+            });
+        });
+
+        $(window).keydown(function(e) {
+            switch(e.which) {
+                case 37:
+                    $('a.nivo-prevNav').click();
+                    break;
+                case 39:
+                    $('a.nivo-nextNav').click();
+                    break;
+            }
+        });
+    </script>
+
+</head>
+
+<body>
+<div id="topheader">
+    <div id="topbanner">
+        <div id="logo"><a href="index.html"><img src="images/serenity-bdd-logo.png" border="0"/></a></div>
+        <div id="projectname-banner" style="float:right">
+            <span class="projectname"></span>
+        </div>
+    </div>
+</div>
+
+<div class="middlecontent">
+    <div id="contenttop">
+        <div class="middlebg">
+            <span class="breadcrumbs">
+                <a href="index.html">Home</a>
+                > <a
+                    href="24dd586060293d8ced99cc68792fdb95f543effee92b1722325ee51271872f4e.html">Amazon Testing</a>
+                > <a
+                    href="67847b424aa60b81c7b6695dc9e396afa3aff180e9f1dc4fc4125b3f409865c1.html">Do testing amazon </a>
+                > Screenshots
+            </span>
+        </div>
+        <div class="rightbg"></div>
+    </div>
+
+    <div class="clr"></div>
+
+    <!--/* starts second table*/-->
+<div>
+    <ul class="nav nav-tabs" role="tablist">
+        <li class="active">
+            <a href="#"><i class="fa fa-check-square-o"></i> Overall Test Results</a>
+        </li>
+        <li >
+            <a href="capabilities.html"><i class="fa fa-book"></i> Requirements</a>
+        </li>
+    </ul>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 11-07-2021 19:24</span>
+    <br style="clear:left"/>
+</div>
+
+    <div class="clr"></div>
+
+
+    <div id="contentbody">
+        <div class="titlebar">
+            <div class="story-title">
+                <table class="outcome-header">
+                    <tr>
+                        <td>
+                            <div>
+                                <h3 class="discreet-story-header">
+                                    <i class="fa fa-2x fa-comments-o"></i>
+                                    <span class="story-header-title">Amazon Testing</span>
+                                    <span class="badge tag-badge">Story</span>
+                                </h3>
+
+                                <div class="discreet-requirement-narrative-title">
+                                
+                                </div>
+                            </div>
+
+                        </td>
+                        <td valign="top" align="right">
+                            <p class="tag">
+                                <span class="badge tag-badge">
+                                    <i class="fa fa-tag"></i>&nbsp;<a class="tagLink" href="103ee9e64a17db635f7877c7d65015b1bb5b8ba3a19b3466dd9ff10b68f7f169.html">Amazon
+                                    (ui)</a>
+                                </span>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div class="story-title">
+                <table class="outcome-header">
+                    <tr>
+                        <td colspan="2" class="test-title-bar">
+                            <span class="outcome-icon"><i class='fa fa-check-square-o success-icon fa-3x' title='SUCCESS'></i></span>
+                            <span class="test-case-title">
+                                <span class="success-color">Do Testing Amazon
+                                    <span class="related-issue-title"></span>
+                                </span>
+                            </span>
+
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="clr"></div>
+
+
+    <div id="beforetable"></div>
+    <div id="contenttilttle">
+        <div class="slider-wrapper theme-default">
+            <div id="slider">
+                <img src="dfa91183dcd2d570d6419f78d0f300181c64467fbc9f03f5708f5c97990d8fbb.png" title="Open login page" width="960"/>
+                <img src="scaled_1c100dec2d28c0c9b9764eb583023bc3bc2677c65998e0ba60c39b958b4a290e.png" title="Login by email page: duysonit@gmail.com, Sonvu@123" width="960"/>
+                <img src="scaled_c6ff7e95d1bd509b01c7c17060a89f7acd9edcd26eba5d271f8f38578578d85a.png" title="Login by email page: duysonit@gmail.com, Sonvu@123" width="960"/>
+                <img src="scaled_f1982e00338dc331c43682a23b20fecd2ea92fbbcb61caea3ee795b29fba4c51.png" title="Search item" width="960"/>
+                <img src="scaled_a60c4ee9fb351981ee6b71702ab49debf474c3c48d863ed1c1d09155fce1cda8.png" title="Search item" width="960"/>
+                <img src="scaled_23e2a51d8a554b80007d350a63bfd5988c7f09f8415f5bb4d3f41f38affb94c7.png" title="Filter capacity item" width="960"/>
+                <img src="scaled_86ecc46c182934804e6b1baa0172f5dc446f4c4bd2b1fffadf706f1124510d63.png" title="Sort by price" width="960"/>
+                <img src="scaled_12718e08d6afb7f3689b69a85fbeb82dea29be741eadb2d04f04dca9f6149866.png" title="Sort by price" width="960"/>
+                <img src="scaled_2beaa2c25d47c36d4ff69a3c2c124bf05f125630782d76f5b8eaecde575f22b1.png" title="Pick item" width="960"/>
+                <img src="scaled_02da82cae6b9364c8a00f9bd55dfd0c5f376ed07701aa5ef1770eb8177e04b12.png" title="Pick item" width="960"/>
+                <img src="scaled_05df81fa9259174d890ee58df03c96b5f3c13fb95b0d3e6155dc811795d21701.png" title="Add to cart" width="960"/>
+                <img src="scaled_552bbe907165efba22d82675300be9611c6bfef7c140d4fd1d081e130fb09bc6.png" title="Add to cart" width="960"/>
+                <img src="scaled_c4d844bbaa6eb1f42f26ef5912d415912876ec7f02556f2b9527c344484bb4b2.png" title="View the cart" width="960"/>
+                <img src="scaled_b645f0afc6b36945ccf0583479a9dc44f59c285acfe01d805611beabcd896905.png" title="View the cart" width="960"/>
+                <img src="scaled_0367dc4eff0caeea6618d7bb28dde52593ae689de399441a64862aeffd222cbf.png" title="Verify the subtotal price" width="960"/>
+                <img src="scaled_8a84e09e96548a1fe9a59394e51e7ea0d7ef342c8d1a95312710599b8aa2da6d.png" title="Verify the subtotal price: <span class='success-color'>SUCCESS</span>" width="960"/>
+            </div>
+        </div>
+
+
+    </div>
+</div>
+<div id="beforefooter"></div>
+<div id="bottomfooter">
+    <span class="version">Serenity BDD version 1.2.3-rc.9</span>
+</div>
+</body>
+</html>
