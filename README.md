@@ -128,7 +128,7 @@ Page Test Class
 
 Clone the repo
    ```sh
-   git clone https://github.com/duysonit/ai-autonomous.git
+   git clone https://github.com/duysonit/autonomous.git
    ```
 
 
